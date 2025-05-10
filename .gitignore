@@ -3,5 +3,6 @@ tables/
 
 schedules/
 .venv/
+.vscode/
 
 upload data.ipynb
