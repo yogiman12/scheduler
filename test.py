@@ -1,3 +1,4 @@
+# old test
 import pandas as pd
 from  schedual.schedual import *
 df = pd.read_csv("tables/collage - ict.csv")

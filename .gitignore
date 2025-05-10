@@ -1,5 +1,7 @@
 problem cases/
 tables/
 
+schedules/
 .venv/
 
+upload data.ipynb
