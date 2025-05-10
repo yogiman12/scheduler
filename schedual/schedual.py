@@ -39,10 +39,10 @@ class schedule:
         with open('data.json', 'r') as f:
             data = json.load(f)
             
-        self.df_courses = pd.DataFrame(data['courses_data']['data'], data['courses_data']['index'],data['courses_data']['columns'])
+        self.df_courses = pd.DataFrame(data=data['courses_data']['data'],columns=data['courses_data']['columns'])
         self.df_groups= pd.DataFrame(data['department_groups'])
         
-        df_days =pd.DataFrame(data['work_days']['data'], data['work_days']['index'],data['work_days']['columns'])
+        df_days =pd.DataFrame(data=data['work_days']['data'],columns=data['work_days']['columns'])
         place = data['study_places']
         self.halls = [*place['halls'],*place['labs']] # change it  in indeviuual vars
         f.close()
@@ -132,6 +132,8 @@ class schedule:
         -------
         None
         """
+        num_groups = int(num_groups)
+        department = str(department)
         if num_groups < 1:
             raise ValueError("Number of groups must be at least 1")
         
@@ -181,6 +183,7 @@ class schedule:
                 else:
                     # If the department doesn't exist, create a new entry (though this shouldn't happen if called correctly)
                     self.departments[department] = {new_course}
+
 
     def create_variables(self):
         self.choices = LpVariable.dicts(

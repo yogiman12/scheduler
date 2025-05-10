@@ -27,7 +27,7 @@
               "course": "Computer Graphics",
               "type": "sec",
               "professor": "Peter",
-              "hall": "A115",
+              "hall": "A210",
               "group": 1
             }
           ],
@@ -36,7 +36,7 @@
               "course": "Computer Graphics",
               "type": "sec",
               "professor": "Peter",
-              "hall": "A115",
+              "hall": "A210",
               "group": 1
             }
           ],
@@ -45,7 +45,7 @@
               "course": "Computer Graphics",
               "type": "sec",
               "professor": "Peter",
-              "hall": "A115",
+              "hall": "A210",
               "group": 1
             }
           ],
@@ -54,7 +54,7 @@
               "course": "Data Communication",
               "type": "lec",
               "professor": "Dr. Christopher Davis",
-              "hall": "A106",
+              "hall": "A115",
               "group": null
             }
           ],
@@ -63,7 +63,102 @@
               "course": "Data Communication",
               "type": "lec",
               "professor": "Dr. Christopher Davis",
-              "hall": "A106",
+              "hall": "A115",
+              "group": null
+            }
+          ],
+          "8": [
+            {
+              "course": "Microprocessor",
+              "type": "sec",
+              "professor": "Cara",
+              "hall": "A205",
+              "group": 1
+            }
+          ],
+          "9": [
+            {
+              "course": "Microprocessor",
+              "type": "sec",
+              "professor": "Cara",
+              "hall": "A205",
+              "group": 1
+            }
+          ],
+          "10": [
+            {
+              "course": "Microprocessor",
+              "type": "sec",
+              "professor": "Cara",
+              "hall": "A205",
+              "group": 1
+            }
+          ]
+        }
+      },
+      {
+        "day": 2,
+        "hours": {
+          "1": [
+            {
+              "course": "Computer Graphics",
+              "type": "lec",
+              "professor": "Dr. Olivia Clark",
+              "hall": "A210",
+              "group": null
+            }
+          ],
+          "2": [
+            {
+              "course": "Computer Graphics",
+              "type": "lec",
+              "professor": "Dr. Olivia Clark",
+              "hall": "A210",
+              "group": null
+            }
+          ],
+          "3": [
+            {
+              "course": "Advanced Programming in C",
+              "type": "sec",
+              "professor": "Yara",
+              "hall": "A104",
+              "group": 2
+            }
+          ],
+          "4": [
+            {
+              "course": "Advanced Programming in C",
+              "type": "sec",
+              "professor": "Yara",
+              "hall": "A104",
+              "group": 2
+            }
+          ],
+          "5": [
+            {
+              "course": "Advanced Programming in C",
+              "type": "sec",
+              "professor": "Yara",
+              "hall": "A104",
+              "group": 2
+            }
+          ],
+          "6": [
+            {
+              "course": "Microprocessor",
+              "type": "lec",
+              "professor": "Dr. James White",
+              "hall": "A326",
+              "group": null
+            }
+          ],
+          "7": [
+            {
+              "course": "Microprocessor",
+              "type": "lec",
+              "professor": "Dr. James White",
+              "hall": "A326",
               "group": null
             }
           ],
@@ -73,7 +168,7 @@
         }
       },
       {
-        "day": 2,
+        "day": 3,
         "hours": {
           "1": [
             {
@@ -86,106 +181,59 @@
           ],
           "2": [
             {
-              "course": "Computer Graphics",
-              "type": "lec",
-              "professor": "Dr. Olivia Clark",
-              "hall": "A208",
-              "group": null
-            }
-          ],
-          "3": [
-            {
-              "course": "Computer Graphics",
-              "type": "lec",
-              "professor": "Dr. Olivia Clark",
-              "hall": "A208",
-              "group": null
-            }
-          ],
-          "4": [],
-          "5": [],
-          "6": [],
-          "7": [],
-          "8": [],
-          "9": [],
-          "10": []
-        }
-      },
-      {
-        "day": 3,
-        "hours": {
-          "1": [
-            {
-              "course": "Microprocessor",
-              "type": "lec",
-              "professor": "Dr. James White",
-              "hall": "A326",
-              "group": null
-            }
-          ],
-          "2": [
-            {
-              "course": "Microprocessor",
-              "type": "lec",
-              "professor": "Dr. James White",
-              "hall": "A326",
-              "group": null
-            }
-          ],
-          "3": [
-            {
-              "course": "Java Programming II",
+              "course": "Advanced Programming in C",
               "type": "sec",
-              "professor": "Cara",
-              "hall": "A204",
+              "professor": "Yara",
+              "hall": "A106",
+              "group": 1
+            }
+          ],
+          "3": [
+            {
+              "course": "Advanced Programming in C",
+              "type": "sec",
+              "professor": "Yara",
+              "hall": "A106",
               "group": 1
             }
           ],
           "4": [
             {
-              "course": "Java Programming II",
+              "course": "Advanced Programming in C",
               "type": "sec",
-              "professor": "Cara",
-              "hall": "A204",
+              "professor": "Yara",
+              "hall": "A106",
               "group": 1
             }
           ],
           "5": [
             {
-              "course": "Java Programming II",
+              "course": "Computer Graphics",
               "type": "sec",
-              "professor": "Cara",
-              "hall": "A204",
-              "group": 1
+              "professor": "Peter",
+              "hall": "A326",
+              "group": 2
             }
           ],
           "6": [
             {
-              "course": "Java Programming II",
+              "course": "Computer Graphics",
               "type": "sec",
-              "professor": "Cara",
-              "hall": "A204",
-              "group": 1
+              "professor": "Peter",
+              "hall": "A326",
+              "group": 2
             }
           ],
           "7": [
             {
-              "course": "Java Programming II",
+              "course": "Computer Graphics",
               "type": "sec",
-              "professor": "Cara",
-              "hall": "A204",
-              "group": 1
+              "professor": "Peter",
+              "hall": "A326",
+              "group": 2
             }
           ],
-          "8": [
-            {
-              "course": "Java Programming II",
-              "type": "sec",
-              "professor": "Cara",
-              "hall": "A204",
-              "group": 1
-            }
-          ],
+          "8": [],
           "9": [],
           "10": []
         }
@@ -213,34 +261,58 @@
           ],
           "3": [
             {
-              "course": "Microprocessor",
+              "course": "Java Programming II",
               "type": "sec",
               "professor": "Cara",
-              "hall": "A205",
-              "group": 1
+              "hall": "A204",
+              "group": 2
             }
           ],
           "4": [
             {
-              "course": "Microprocessor",
+              "course": "Java Programming II",
               "type": "sec",
               "professor": "Cara",
-              "hall": "A205",
-              "group": 1
+              "hall": "A204",
+              "group": 2
             }
           ],
           "5": [
             {
-              "course": "Microprocessor",
+              "course": "Java Programming II",
               "type": "sec",
               "professor": "Cara",
-              "hall": "A205",
-              "group": 1
+              "hall": "A204",
+              "group": 2
             }
           ],
-          "6": [],
-          "7": [],
-          "8": [],
+          "6": [
+            {
+              "course": "Java Programming II",
+              "type": "sec",
+              "professor": "Cara",
+              "hall": "A204",
+              "group": 2
+            }
+          ],
+          "7": [
+            {
+              "course": "Java Programming II",
+              "type": "sec",
+              "professor": "Cara",
+              "hall": "A204",
+              "group": 2
+            }
+          ],
+          "8": [
+            {
+              "course": "Java Programming II",
+              "type": "sec",
+              "professor": "Cara",
+              "hall": "A204",
+              "group": 2
+            }
+          ],
           "9": [],
           "10": []
         }
@@ -250,37 +322,85 @@
         "hours": {
           "1": [
             {
-              "course": "Advanced Programming in C",
+              "course": "Microprocessor",
               "type": "sec",
-              "professor": "Yara",
-              "hall": "A104",
-              "group": 1
+              "professor": "Cara",
+              "hall": "A205",
+              "group": 2
             }
           ],
           "2": [
             {
-              "course": "Advanced Programming in C",
+              "course": "Microprocessor",
               "type": "sec",
-              "professor": "Yara",
-              "hall": "A104",
-              "group": 1
+              "professor": "Cara",
+              "hall": "A205",
+              "group": 2
             }
           ],
           "3": [
             {
-              "course": "Advanced Programming in C",
+              "course": "Microprocessor",
               "type": "sec",
-              "professor": "Yara",
-              "hall": "A104",
+              "professor": "Cara",
+              "hall": "A205",
+              "group": 2
+            }
+          ],
+          "4": [
+            {
+              "course": "Java Programming II",
+              "type": "sec",
+              "professor": "Cara",
+              "hall": "A204",
               "group": 1
             }
           ],
-          "4": [],
-          "5": [],
-          "6": [],
-          "7": [],
-          "8": [],
-          "9": [],
+          "5": [
+            {
+              "course": "Java Programming II",
+              "type": "sec",
+              "professor": "Cara",
+              "hall": "A204",
+              "group": 1
+            }
+          ],
+          "6": [
+            {
+              "course": "Java Programming II",
+              "type": "sec",
+              "professor": "Cara",
+              "hall": "A204",
+              "group": 1
+            }
+          ],
+          "7": [
+            {
+              "course": "Java Programming II",
+              "type": "sec",
+              "professor": "Cara",
+              "hall": "A204",
+              "group": 1
+            }
+          ],
+          "8": [
+            {
+              "course": "Java Programming II",
+              "type": "sec",
+              "professor": "Cara",
+              "hall": "A204",
+              "group": 1
+            }
+          ],
+          "9": [
+            {
+              "course": "Java Programming II",
+              "type": "sec",
+              "professor": "Cara",
+              "hall": "A204",
+              "group": 1
+            }
+          ],
           "10": []
         }
       }
@@ -291,90 +411,33 @@
         "hours": {
           "1": [
             {
+              "course": "CCNA R&S II",
+              "type": "sec",
+              "professor": "Yara",
+              "hall": "A204",
+              "group": 2
+            },
+            {
               "course": "Signal Processing",
               "type": "lec",
               "professor": "Dr. Sarah Martinez",
-              "hall": "A326",
+              "hall": "A327",
               "group": null
             }
           ],
           "2": [
             {
+              "course": "CCNA R&S II",
+              "type": "sec",
+              "professor": "Yara",
+              "hall": "A204",
+              "group": 2
+            },
+            {
               "course": "Signal Processing",
               "type": "lec",
               "professor": "Dr. Sarah Martinez",
-              "hall": "A326",
-              "group": null
-            }
-          ],
-          "3": [
-            {
-              "course": "CCNA R&S II",
-              "type": "sec",
-              "professor": "Yara",
-              "hall": "A105",
-              "group": 1
-            }
-          ],
-          "4": [
-            {
-              "course": "CCNA R&S II",
-              "type": "sec",
-              "professor": "Yara",
-              "hall": "A105",
-              "group": 1
-            }
-          ],
-          "5": [
-            {
-              "course": "CCNA R&S II",
-              "type": "sec",
-              "professor": "Yara",
-              "hall": "A105",
-              "group": 1
-            }
-          ],
-          "6": [
-            {
-              "course": "Artificial Intelligence",
-              "type": "lec",
-              "professor": "Dr. Sarah Martinez",
-              "hall": "A205",
-              "group": null
-            }
-          ],
-          "7": [
-            {
-              "course": "Artificial Intelligence",
-              "type": "lec",
-              "professor": "Dr. Sarah Martinez",
-              "hall": "A205",
-              "group": null
-            }
-          ],
-          "8": [],
-          "9": [],
-          "10": []
-        }
-      },
-      {
-        "day": 2,
-        "hours": {
-          "1": [
-            {
-              "course": "IoT Architecture & Protocols/IoT Programming",
-              "type": "lec",
-              "professor": "Dr. Michael Brown",
-              "hall": "A326",
-              "group": null
-            }
-          ],
-          "2": [
-            {
-              "course": "IoT Architecture & Protocols/IoT Programming",
-              "type": "lec",
-              "professor": "Dr. Michael Brown",
-              "hall": "A326",
+              "hall": "A327",
               "group": null
             }
           ],
@@ -383,8 +446,15 @@
               "course": "Windows Programming I",
               "type": "sec",
               "professor": "Ivy",
-              "hall": "A209",
+              "hall": "A106",
               "group": 1
+            },
+            {
+              "course": "CCNA R&S II",
+              "type": "sec",
+              "professor": "Yara",
+              "hall": "A204",
+              "group": 2
             }
           ],
           "4": [
@@ -392,7 +462,7 @@
               "course": "Windows Programming I",
               "type": "sec",
               "professor": "Ivy",
-              "hall": "A209",
+              "hall": "A106",
               "group": 1
             }
           ],
@@ -401,7 +471,7 @@
               "course": "Windows Programming I",
               "type": "sec",
               "professor": "Ivy",
-              "hall": "A209",
+              "hall": "A106",
               "group": 1
             }
           ],
@@ -410,7 +480,7 @@
               "course": "Windows Programming I",
               "type": "sec",
               "professor": "Ivy",
-              "hall": "A209",
+              "hall": "A106",
               "group": 1
             }
           ],
@@ -419,7 +489,7 @@
               "course": "Windows Programming I",
               "type": "sec",
               "professor": "Ivy",
-              "hall": "A209",
+              "hall": "A106",
               "group": 1
             }
           ],
@@ -428,10 +498,110 @@
               "course": "Windows Programming I",
               "type": "sec",
               "professor": "Ivy",
-              "hall": "A209",
+              "hall": "A106",
               "group": 1
             }
           ],
+          "9": [
+            {
+              "course": "Artificial Intelligence",
+              "type": "lec",
+              "professor": "Dr. Sarah Martinez",
+              "hall": "A115",
+              "group": null
+            }
+          ],
+          "10": [
+            {
+              "course": "Artificial Intelligence",
+              "type": "lec",
+              "professor": "Dr. Sarah Martinez",
+              "hall": "A115",
+              "group": null
+            }
+          ]
+        }
+      },
+      {
+        "day": 2,
+        "hours": {
+          "1": [
+            {
+              "course": "Mobile Programming II",
+              "type": "sec",
+              "professor": "Ivy",
+              "hall": "A106",
+              "group": 1
+            }
+          ],
+          "2": [
+            {
+              "course": "Mobile Programming II",
+              "type": "sec",
+              "professor": "Ivy",
+              "hall": "A106",
+              "group": 1
+            }
+          ],
+          "3": [
+            {
+              "course": "Mobile Programming II",
+              "type": "sec",
+              "professor": "Ivy",
+              "hall": "A106",
+              "group": 1
+            },
+            {
+              "course": "IoT Architecture & Protocols/IoT Programming",
+              "type": "sec",
+              "professor": "Charlie",
+              "hall": "A204",
+              "group": 2
+            }
+          ],
+          "4": [
+            {
+              "course": "Mobile Programming II",
+              "type": "sec",
+              "professor": "Ivy",
+              "hall": "A106",
+              "group": 1
+            },
+            {
+              "course": "IoT Architecture & Protocols/IoT Programming",
+              "type": "sec",
+              "professor": "Charlie",
+              "hall": "A204",
+              "group": 2
+            }
+          ],
+          "5": [
+            {
+              "course": "Mobile Programming II",
+              "type": "sec",
+              "professor": "Ivy",
+              "hall": "A106",
+              "group": 1
+            },
+            {
+              "course": "IoT Architecture & Protocols/IoT Programming",
+              "type": "sec",
+              "professor": "Charlie",
+              "hall": "A204",
+              "group": 2
+            }
+          ],
+          "6": [
+            {
+              "course": "Mobile Programming II",
+              "type": "sec",
+              "professor": "Ivy",
+              "hall": "A106",
+              "group": 1
+            }
+          ],
+          "7": [],
+          "8": [],
           "9": [],
           "10": []
         }
@@ -448,61 +618,53 @@
               "group": null
             }
           ],
-          "2": [
-            {
-              "course": "Mobile Programming II",
-              "type": "sec",
-              "professor": "Ivy",
-              "hall": "A106",
-              "group": 1
-            }
-          ],
-          "3": [
-            {
-              "course": "Mobile Programming II",
-              "type": "sec",
-              "professor": "Ivy",
-              "hall": "A106",
-              "group": 1
-            }
-          ],
+          "2": [],
+          "3": [],
           "4": [
             {
-              "course": "Mobile Programming II",
-              "type": "sec",
-              "professor": "Ivy",
-              "hall": "A106",
-              "group": 1
+              "course": "IoT Architecture & Protocols/IoT Programming",
+              "type": "lec",
+              "professor": "Dr. Michael Brown",
+              "hall": "A208",
+              "group": null
             }
           ],
           "5": [
             {
-              "course": "Mobile Programming II",
-              "type": "sec",
-              "professor": "Ivy",
-              "hall": "A106",
-              "group": 1
+              "course": "IoT Architecture & Protocols/IoT Programming",
+              "type": "lec",
+              "professor": "Dr. Michael Brown",
+              "hall": "A208",
+              "group": null
             }
           ],
           "6": [
             {
-              "course": "Mobile Programming II",
+              "course": "IoT Architecture & Protocols/IoT Programming",
               "type": "sec",
-              "professor": "Ivy",
-              "hall": "A106",
+              "professor": "Charlie",
+              "hall": "A210",
               "group": 1
             }
           ],
           "7": [
             {
-              "course": "Mobile Programming II",
+              "course": "IoT Architecture & Protocols/IoT Programming",
               "type": "sec",
-              "professor": "Ivy",
-              "hall": "A106",
+              "professor": "Charlie",
+              "hall": "A210",
               "group": 1
             }
           ],
-          "8": [],
+          "8": [
+            {
+              "course": "IoT Architecture & Protocols/IoT Programming",
+              "type": "sec",
+              "professor": "Charlie",
+              "hall": "A210",
+              "group": 1
+            }
+          ],
           "9": [],
           "10": []
         }
@@ -522,28 +684,28 @@
           "2": [],
           "3": [
             {
-              "course": "IoT Architecture & Protocols/IoT Programming",
+              "course": "CCNA R&S II",
               "type": "sec",
-              "professor": "Charlie",
-              "hall": "A204",
+              "professor": "Yara",
+              "hall": "A327",
               "group": 1
             }
           ],
           "4": [
             {
-              "course": "IoT Architecture & Protocols/IoT Programming",
+              "course": "CCNA R&S II",
               "type": "sec",
-              "professor": "Charlie",
-              "hall": "A204",
+              "professor": "Yara",
+              "hall": "A327",
               "group": 1
             }
           ],
           "5": [
             {
-              "course": "IoT Architecture & Protocols/IoT Programming",
+              "course": "CCNA R&S II",
               "type": "sec",
-              "professor": "Charlie",
-              "hall": "A204",
+              "professor": "Yara",
+              "hall": "A327",
               "group": 1
             }
           ],
@@ -592,70 +754,94 @@
         "hours": {
           "1": [
             {
-              "course": "CCNA Cybersecurity Operations",
-              "type": "sec",
-              "professor": "Ivy",
-              "hall": "A213",
-              "group": 1
+              "course": "CCNA R&S IV",
+              "type": "lec",
+              "professor": "Dr. Christopher Davis",
+              "hall": "A104",
+              "group": null
             }
           ],
           "2": [
             {
-              "course": "CCNA Cybersecurity Operations",
-              "type": "sec",
-              "professor": "Ivy",
-              "hall": "A213",
-              "group": 1
+              "course": "CCNA R&S IV",
+              "type": "lec",
+              "professor": "Dr. Christopher Davis",
+              "hall": "A104",
+              "group": null
             }
           ],
           "3": [
             {
-              "course": "CCNA Cybersecurity Operations",
+              "course": "CCNA R&S IV",
               "type": "sec",
-              "professor": "Ivy",
-              "hall": "A213",
-              "group": 1
+              "professor": "Charlie",
+              "hall": "A105",
+              "group": 2
             }
           ],
           "4": [
             {
               "course": "CCNA R&S IV",
-              "type": "lec",
-              "professor": "Dr. Christopher Davis",
-              "hall": "A208",
-              "group": null
+              "type": "sec",
+              "professor": "Charlie",
+              "hall": "A105",
+              "group": 2
             }
           ],
           "5": [
             {
               "course": "CCNA R&S IV",
-              "type": "lec",
-              "professor": "Dr. Christopher Davis",
-              "hall": "A208",
-              "group": null
+              "type": "sec",
+              "professor": "Charlie",
+              "hall": "A105",
+              "group": 2
             }
           ],
           "6": [
             {
-              "course": "Artificial Intelligence",
-              "type": "lec",
-              "professor": "Dr. Sarah Martinez",
-              "hall": "A205",
-              "group": null
+              "course": "CCNA R&S IV",
+              "type": "sec",
+              "professor": "Charlie",
+              "hall": "A208",
+              "group": 1
             }
           ],
           "7": [
             {
+              "course": "CCNA R&S IV",
+              "type": "sec",
+              "professor": "Charlie",
+              "hall": "A208",
+              "group": 1
+            }
+          ],
+          "8": [
+            {
+              "course": "CCNA R&S IV",
+              "type": "sec",
+              "professor": "Charlie",
+              "hall": "A208",
+              "group": 1
+            }
+          ],
+          "9": [
+            {
               "course": "Artificial Intelligence",
               "type": "lec",
               "professor": "Dr. Sarah Martinez",
-              "hall": "A205",
+              "hall": "A115",
               "group": null
             }
           ],
-          "8": [],
-          "9": [],
-          "10": []
+          "10": [
+            {
+              "course": "Artificial Intelligence",
+              "type": "lec",
+              "professor": "Dr. Sarah Martinez",
+              "hall": "A115",
+              "group": null
+            }
+          ]
         }
       },
       {
@@ -663,45 +849,85 @@
         "hours": {
           "1": [
             {
-              "course": "IoT Architecture & Protocols/IoT Programming",
+              "course": "CCNA Cybersecurity Operations",
               "type": "lec",
-              "professor": "Dr. Michael Brown",
-              "hall": "A326",
+              "professor": "Dr. Alicia Chen",
+              "hall": "A204",
               "group": null
             }
           ],
           "2": [
             {
-              "course": "IoT Architecture & Protocols/IoT Programming",
+              "course": "CCNA Cybersecurity Operations",
               "type": "lec",
-              "professor": "Dr. Michael Brown",
-              "hall": "A326",
+              "professor": "Dr. Alicia Chen",
+              "hall": "A204",
               "group": null
             }
           ],
           "3": [
             {
-              "course": "CCNA Cybersecurity Operations",
-              "type": "lec",
-              "professor": "Dr. Alicia Chen",
-              "hall": "A106",
-              "group": null
+              "course": "IoT Architecture & Protocols/IoT Programming",
+              "type": "sec",
+              "professor": "Charlie",
+              "hall": "A204",
+              "group": 2
             }
           ],
           "4": [
             {
-              "course": "CCNA Cybersecurity Operations",
-              "type": "lec",
-              "professor": "Dr. Alicia Chen",
-              "hall": "A106",
-              "group": null
+              "course": "IoT Architecture & Protocols/IoT Programming",
+              "type": "sec",
+              "professor": "Charlie",
+              "hall": "A204",
+              "group": 2
             }
           ],
-          "5": [],
-          "6": [],
-          "7": [],
-          "8": [],
-          "9": [],
+          "5": [
+            {
+              "course": "IoT Architecture & Protocols/IoT Programming",
+              "type": "sec",
+              "professor": "Charlie",
+              "hall": "A204",
+              "group": 2
+            }
+          ],
+          "6": [
+            {
+              "course": "Server Administration",
+              "type": "sec",
+              "professor": "Uma",
+              "hall": "A105",
+              "group": 2
+            }
+          ],
+          "7": [
+            {
+              "course": "Server Administration",
+              "type": "sec",
+              "professor": "Uma",
+              "hall": "A105",
+              "group": 2
+            }
+          ],
+          "8": [
+            {
+              "course": "Server Administration",
+              "type": "sec",
+              "professor": "Uma",
+              "hall": "A105",
+              "group": 2
+            }
+          ],
+          "9": [
+            {
+              "course": "Server Administration",
+              "type": "sec",
+              "professor": "Uma",
+              "hall": "A105",
+              "group": 2
+            }
+          ],
           "10": []
         }
       },
@@ -710,36 +936,76 @@
         "hours": {
           "1": [
             {
-              "course": "CCNA R&S IV",
+              "course": "CCNA Cybersecurity Operations",
               "type": "sec",
-              "professor": "Charlie",
-              "hall": "A105",
-              "group": 1
+              "professor": "Ivy",
+              "hall": "A209",
+              "group": 2
             }
           ],
           "2": [
             {
-              "course": "CCNA R&S IV",
+              "course": "CCNA Cybersecurity Operations",
               "type": "sec",
-              "professor": "Charlie",
-              "hall": "A105",
-              "group": 1
+              "professor": "Ivy",
+              "hall": "A209",
+              "group": 2
             }
           ],
           "3": [
             {
-              "course": "CCNA R&S IV",
+              "course": "CCNA Cybersecurity Operations",
+              "type": "sec",
+              "professor": "Ivy",
+              "hall": "A209",
+              "group": 2
+            }
+          ],
+          "4": [
+            {
+              "course": "IoT Architecture & Protocols/IoT Programming",
+              "type": "lec",
+              "professor": "Dr. Michael Brown",
+              "hall": "A208",
+              "group": null
+            }
+          ],
+          "5": [
+            {
+              "course": "IoT Architecture & Protocols/IoT Programming",
+              "type": "lec",
+              "professor": "Dr. Michael Brown",
+              "hall": "A208",
+              "group": null
+            }
+          ],
+          "6": [
+            {
+              "course": "IoT Architecture & Protocols/IoT Programming",
               "type": "sec",
               "professor": "Charlie",
-              "hall": "A105",
+              "hall": "A210",
               "group": 1
             }
           ],
-          "4": [],
-          "5": [],
-          "6": [],
-          "7": [],
-          "8": [],
+          "7": [
+            {
+              "course": "IoT Architecture & Protocols/IoT Programming",
+              "type": "sec",
+              "professor": "Charlie",
+              "hall": "A210",
+              "group": 1
+            }
+          ],
+          "8": [
+            {
+              "course": "IoT Architecture & Protocols/IoT Programming",
+              "type": "sec",
+              "professor": "Charlie",
+              "hall": "A210",
+              "group": 1
+            }
+          ],
           "9": [],
           "10": []
         }
@@ -767,28 +1033,28 @@
           ],
           "3": [
             {
-              "course": "IoT Architecture & Protocols/IoT Programming",
+              "course": "CCNA Cybersecurity Operations",
               "type": "sec",
-              "professor": "Charlie",
-              "hall": "A204",
+              "professor": "Ivy",
+              "hall": "A205",
               "group": 1
             }
           ],
           "4": [
             {
-              "course": "IoT Architecture & Protocols/IoT Programming",
+              "course": "CCNA Cybersecurity Operations",
               "type": "sec",
-              "professor": "Charlie",
-              "hall": "A204",
+              "professor": "Ivy",
+              "hall": "A205",
               "group": 1
             }
           ],
           "5": [
             {
-              "course": "IoT Architecture & Protocols/IoT Programming",
+              "course": "CCNA Cybersecurity Operations",
               "type": "sec",
-              "professor": "Charlie",
-              "hall": "A204",
+              "professor": "Ivy",
+              "hall": "A205",
               "group": 1
             }
           ],
@@ -807,7 +1073,7 @@
               "course": "Server Administration",
               "type": "sec",
               "professor": "Uma",
-              "hall": "A213",
+              "hall": "A106",
               "group": 1
             }
           ],
@@ -816,7 +1082,7 @@
               "course": "Server Administration",
               "type": "sec",
               "professor": "Uma",
-              "hall": "A213",
+              "hall": "A106",
               "group": 1
             }
           ],
@@ -825,7 +1091,7 @@
               "course": "Server Administration",
               "type": "sec",
               "professor": "Uma",
-              "hall": "A213",
+              "hall": "A106",
               "group": 1
             }
           ],
@@ -834,7 +1100,7 @@
               "course": "Server Administration",
               "type": "sec",
               "professor": "Uma",
-              "hall": "A213",
+              "hall": "A106",
               "group": 1
             }
           ],
@@ -869,20 +1135,20 @@
         "hours": {
           "1": [
             {
-              "course": "Network Administration",
-              "type": "lec",
-              "professor": "Dr. Christopher Davis",
-              "hall": "A104",
-              "group": null
+              "course": "CCNA R&S II",
+              "type": "sec",
+              "professor": "Yara",
+              "hall": "A204",
+              "group": 2
             }
           ],
           "2": [
             {
-              "course": "Network Administration",
-              "type": "lec",
-              "professor": "Dr. Christopher Davis",
-              "hall": "A104",
-              "group": null
+              "course": "CCNA R&S II",
+              "type": "sec",
+              "professor": "Yara",
+              "hall": "A204",
+              "group": 2
             }
           ],
           "3": [
@@ -890,26 +1156,26 @@
               "course": "CCNA R&S II",
               "type": "sec",
               "professor": "Yara",
-              "hall": "A105",
-              "group": 1
+              "hall": "A204",
+              "group": 2
             }
           ],
           "4": [
             {
-              "course": "CCNA R&S II",
-              "type": "sec",
-              "professor": "Yara",
-              "hall": "A105",
-              "group": 1
+              "course": "Network Administration",
+              "type": "lec",
+              "professor": "Dr. Christopher Davis",
+              "hall": "A327",
+              "group": null
             }
           ],
           "5": [
             {
-              "course": "CCNA R&S II",
-              "type": "sec",
-              "professor": "Yara",
-              "hall": "A105",
-              "group": 1
+              "course": "Network Administration",
+              "type": "lec",
+              "professor": "Dr. Christopher Davis",
+              "hall": "A327",
+              "group": null
             }
           ],
           "6": [
@@ -917,7 +1183,7 @@
               "course": "Data Communication",
               "type": "lec",
               "professor": "Dr. Christopher Davis",
-              "hall": "A106",
+              "hall": "A115",
               "group": null
             }
           ],
@@ -926,7 +1192,94 @@
               "course": "Data Communication",
               "type": "lec",
               "professor": "Dr. Christopher Davis",
-              "hall": "A106",
+              "hall": "A115",
+              "group": null
+            }
+          ],
+          "8": [
+            {
+              "course": "Microprocessor",
+              "type": "sec",
+              "professor": "Cara",
+              "hall": "A205",
+              "group": 1
+            }
+          ],
+          "9": [
+            {
+              "course": "Microprocessor",
+              "type": "sec",
+              "professor": "Cara",
+              "hall": "A205",
+              "group": 1
+            }
+          ],
+          "10": [
+            {
+              "course": "Microprocessor",
+              "type": "sec",
+              "professor": "Cara",
+              "hall": "A205",
+              "group": 1
+            }
+          ]
+        }
+      },
+      {
+        "day": 2,
+        "hours": {
+          "1": [
+            {
+              "course": "Network Administration",
+              "type": "sec",
+              "professor": "Cara",
+              "hall": "A105",
+              "group": 1
+            }
+          ],
+          "2": [
+            {
+              "course": "Network Administration",
+              "type": "sec",
+              "professor": "Cara",
+              "hall": "A105",
+              "group": 1
+            }
+          ],
+          "3": [
+            {
+              "course": "Network Administration",
+              "type": "sec",
+              "professor": "Cara",
+              "hall": "A105",
+              "group": 1
+            }
+          ],
+          "4": [
+            {
+              "course": "Network Administration",
+              "type": "sec",
+              "professor": "Cara",
+              "hall": "A105",
+              "group": 1
+            }
+          ],
+          "5": [],
+          "6": [
+            {
+              "course": "Microprocessor",
+              "type": "lec",
+              "professor": "Dr. James White",
+              "hall": "A326",
+              "group": null
+            }
+          ],
+          "7": [
+            {
+              "course": "Microprocessor",
+              "type": "lec",
+              "professor": "Dr. James White",
+              "hall": "A326",
               "group": null
             }
           ],
@@ -936,7 +1289,7 @@
         }
       },
       {
-        "day": 2,
+        "day": 3,
         "hours": {
           "1": [
             {
@@ -953,7 +1306,7 @@
               "type": "sec",
               "professor": "Cara",
               "hall": "A105",
-              "group": 1
+              "group": 2
             }
           ],
           "3": [
@@ -962,7 +1315,7 @@
               "type": "sec",
               "professor": "Cara",
               "hall": "A105",
-              "group": 1
+              "group": 2
             }
           ],
           "4": [
@@ -971,7 +1324,7 @@
               "type": "sec",
               "professor": "Cara",
               "hall": "A105",
-              "group": 1
+              "group": 2
             }
           ],
           "5": [
@@ -980,7 +1333,7 @@
               "type": "sec",
               "professor": "Cara",
               "hall": "A105",
-              "group": 1
+              "group": 2
             }
           ],
           "6": [],
@@ -991,23 +1344,23 @@
         }
       },
       {
-        "day": 3,
+        "day": 4,
         "hours": {
           "1": [
             {
-              "course": "Microprocessor",
+              "course": "Computer Architecture",
               "type": "lec",
               "professor": "Dr. James White",
-              "hall": "A326",
+              "hall": "A115",
               "group": null
             }
           ],
           "2": [
             {
-              "course": "Microprocessor",
+              "course": "Computer Architecture",
               "type": "lec",
               "professor": "Dr. James White",
-              "hall": "A326",
+              "hall": "A115",
               "group": null
             }
           ],
@@ -1017,7 +1370,121 @@
               "type": "sec",
               "professor": "Cara",
               "hall": "A204",
+              "group": 2
+            },
+            {
+              "course": "CCNA R&S II",
+              "type": "sec",
+              "professor": "Yara",
+              "hall": "A327",
               "group": 1
+            }
+          ],
+          "4": [
+            {
+              "course": "Java Programming II",
+              "type": "sec",
+              "professor": "Cara",
+              "hall": "A204",
+              "group": 2
+            },
+            {
+              "course": "CCNA R&S II",
+              "type": "sec",
+              "professor": "Yara",
+              "hall": "A327",
+              "group": 1
+            }
+          ],
+          "5": [
+            {
+              "course": "Java Programming II",
+              "type": "sec",
+              "professor": "Cara",
+              "hall": "A204",
+              "group": 2
+            },
+            {
+              "course": "CCNA R&S II",
+              "type": "sec",
+              "professor": "Yara",
+              "hall": "A327",
+              "group": 1
+            }
+          ],
+          "6": [
+            {
+              "course": "Java Programming II",
+              "type": "sec",
+              "professor": "Cara",
+              "hall": "A204",
+              "group": 2
+            }
+          ],
+          "7": [
+            {
+              "course": "Java Programming II",
+              "type": "sec",
+              "professor": "Cara",
+              "hall": "A204",
+              "group": 2
+            }
+          ],
+          "8": [
+            {
+              "course": "Java Programming II",
+              "type": "sec",
+              "professor": "Cara",
+              "hall": "A204",
+              "group": 2
+            }
+          ],
+          "9": [],
+          "10": []
+        }
+      },
+      {
+        "day": 5,
+        "hours": {
+          "1": [
+            {
+              "course": "Microprocessor",
+              "type": "sec",
+              "professor": "Cara",
+              "hall": "A205",
+              "group": 2
+            },
+            {
+              "course": "CCNA R&S II",
+              "type": "lec",
+              "professor": "Dr. Christopher Davis",
+              "hall": "A326",
+              "group": null
+            }
+          ],
+          "2": [
+            {
+              "course": "Microprocessor",
+              "type": "sec",
+              "professor": "Cara",
+              "hall": "A205",
+              "group": 2
+            },
+            {
+              "course": "CCNA R&S II",
+              "type": "lec",
+              "professor": "Dr. Christopher Davis",
+              "hall": "A326",
+              "group": null
+            }
+          ],
+          "3": [
+            {
+              "course": "Microprocessor",
+              "type": "sec",
+              "professor": "Cara",
+              "hall": "A205",
+              "group": 2
             }
           ],
           "4": [
@@ -1065,93 +1532,15 @@
               "group": 1
             }
           ],
-          "9": [],
-          "10": []
-        }
-      },
-      {
-        "day": 4,
-        "hours": {
-          "1": [
+          "9": [
             {
-              "course": "Computer Architecture",
-              "type": "lec",
-              "professor": "Dr. James White",
-              "hall": "A115",
-              "group": null
-            }
-          ],
-          "2": [
-            {
-              "course": "Computer Architecture",
-              "type": "lec",
-              "professor": "Dr. James White",
-              "hall": "A115",
-              "group": null
-            }
-          ],
-          "3": [
-            {
-              "course": "Microprocessor",
+              "course": "Java Programming II",
               "type": "sec",
               "professor": "Cara",
-              "hall": "A205",
+              "hall": "A204",
               "group": 1
             }
           ],
-          "4": [
-            {
-              "course": "Microprocessor",
-              "type": "sec",
-              "professor": "Cara",
-              "hall": "A205",
-              "group": 1
-            }
-          ],
-          "5": [
-            {
-              "course": "Microprocessor",
-              "type": "sec",
-              "professor": "Cara",
-              "hall": "A205",
-              "group": 1
-            }
-          ],
-          "6": [],
-          "7": [],
-          "8": [],
-          "9": [],
-          "10": []
-        }
-      },
-      {
-        "day": 5,
-        "hours": {
-          "1": [
-            {
-              "course": "CCNA R&S II",
-              "type": "lec",
-              "professor": "Dr. Christopher Davis",
-              "hall": "A326",
-              "group": null
-            }
-          ],
-          "2": [
-            {
-              "course": "CCNA R&S II",
-              "type": "lec",
-              "professor": "Dr. Christopher Davis",
-              "hall": "A326",
-              "group": null
-            }
-          ],
-          "3": [],
-          "4": [],
-          "5": [],
-          "6": [],
-          "7": [],
-          "8": [],
-          "9": [],
           "10": []
         }
       }
@@ -1198,34 +1587,58 @@
           ],
           "5": [
             {
-              "course": "Linux Essentials",
+              "course": "Programming Essentials in C++",
               "type": "sec",
-              "professor": "Charlie",
-              "hall": "A213",
-              "group": 1
+              "professor": "Uma",
+              "hall": "A204",
+              "group": 2
             }
           ],
           "6": [
             {
-              "course": "Linux Essentials",
+              "course": "Programming Essentials in C++",
               "type": "sec",
-              "professor": "Charlie",
-              "hall": "A213",
-              "group": 1
+              "professor": "Uma",
+              "hall": "A204",
+              "group": 2
             }
           ],
           "7": [
             {
-              "course": "Linux Essentials",
+              "course": "Programming Essentials in C++",
               "type": "sec",
-              "professor": "Charlie",
-              "hall": "A213",
+              "professor": "Uma",
+              "hall": "A204",
+              "group": 2
+            }
+          ],
+          "8": [
+            {
+              "course": "Digital Engineering",
+              "type": "sec",
+              "professor": "Kate",
+              "hall": "A104",
               "group": 1
             }
           ],
-          "8": [],
-          "9": [],
-          "10": []
+          "9": [
+            {
+              "course": "Digital Engineering",
+              "type": "sec",
+              "professor": "Kate",
+              "hall": "A104",
+              "group": 1
+            }
+          ],
+          "10": [
+            {
+              "course": "Digital Engineering",
+              "type": "sec",
+              "professor": "Kate",
+              "hall": "A104",
+              "group": 1
+            }
+          ]
         }
       },
       {
@@ -1233,10 +1646,10 @@
         "hours": {
           "1": [
             {
-              "course": "Introduction to DB",
+              "course": "Web Programming I",
               "type": "lec",
-              "professor": "Dr. Jennifer Lopez",
-              "hall": "A115",
+              "professor": "Dr. Rachel Green",
+              "hall": "A327",
               "group": null
             }
           ],
@@ -1251,35 +1664,67 @@
           ],
           "3": [
             {
-              "course": "Programming Essentials in C++",
-              "type": "sec",
-              "professor": "Uma",
-              "hall": "A210",
-              "group": 1
+              "course": "Introduction to DB",
+              "type": "lec",
+              "professor": "Dr. Jennifer Lopez",
+              "hall": "A115",
+              "group": null
             }
           ],
           "4": [
             {
-              "course": "Programming Essentials in C++",
+              "course": "Digital Engineering",
               "type": "sec",
-              "professor": "Uma",
-              "hall": "A210",
-              "group": 1
+              "professor": "Kate",
+              "hall": "A213",
+              "group": 2
             }
           ],
           "5": [
             {
-              "course": "Programming Essentials in C++",
+              "course": "Digital Engineering",
               "type": "sec",
-              "professor": "Uma",
-              "hall": "A210",
+              "professor": "Kate",
+              "hall": "A213",
+              "group": 2
+            }
+          ],
+          "6": [
+            {
+              "course": "Digital Engineering",
+              "type": "sec",
+              "professor": "Kate",
+              "hall": "A213",
+              "group": 2
+            }
+          ],
+          "7": [
+            {
+              "course": "Linux Essentials",
+              "type": "sec",
+              "professor": "Charlie",
+              "hall": "A115",
               "group": 1
             }
           ],
-          "6": [],
-          "7": [],
-          "8": [],
-          "9": [],
+          "8": [
+            {
+              "course": "Linux Essentials",
+              "type": "sec",
+              "professor": "Charlie",
+              "hall": "A115",
+              "group": 1
+            }
+          ],
+          "9": [
+            {
+              "course": "Linux Essentials",
+              "type": "sec",
+              "professor": "Charlie",
+              "hall": "A115",
+              "group": 1
+            }
+          ],
           "10": []
         }
       },
@@ -1288,75 +1733,28 @@
         "hours": {
           "1": [
             {
-              "course": "Web Programming I",
-              "type": "lec",
-              "professor": "Dr. Rachel Green",
-              "hall": "A209",
-              "group": null
-            }
-          ],
-          "2": [
-            {
-              "course": "Digital Engineering",
-              "type": "sec",
-              "professor": "Kate",
-              "hall": "A104",
-              "group": 1
-            }
-          ],
-          "3": [
-            {
-              "course": "Digital Engineering",
-              "type": "sec",
-              "professor": "Kate",
-              "hall": "A104",
-              "group": 1
-            }
-          ],
-          "4": [
-            {
-              "course": "Digital Engineering",
-              "type": "sec",
-              "professor": "Kate",
-              "hall": "A104",
-              "group": 1
-            }
-          ],
-          "5": [],
-          "6": [],
-          "7": [],
-          "8": [],
-          "9": [],
-          "10": []
-        }
-      },
-      {
-        "day": 4,
-        "hours": {
-          "1": [
-            {
-              "course": "Web Programming I",
+              "course": "Programming Essentials in C++",
               "type": "sec",
               "professor": "Uma",
-              "hall": "A104",
+              "hall": "A205",
               "group": 1
             }
           ],
           "2": [
             {
-              "course": "Web Programming I",
+              "course": "Programming Essentials in C++",
               "type": "sec",
               "professor": "Uma",
-              "hall": "A104",
+              "hall": "A205",
               "group": 1
             }
           ],
           "3": [
             {
-              "course": "Web Programming I",
+              "course": "Programming Essentials in C++",
               "type": "sec",
               "professor": "Uma",
-              "hall": "A104",
+              "hall": "A205",
               "group": 1
             }
           ],
@@ -1365,7 +1763,7 @@
               "course": "Web Programming I",
               "type": "sec",
               "professor": "Uma",
-              "hall": "A104",
+              "hall": "A115",
               "group": 1
             }
           ],
@@ -1374,7 +1772,7 @@
               "course": "Web Programming I",
               "type": "sec",
               "professor": "Uma",
-              "hall": "A104",
+              "hall": "A115",
               "group": 1
             }
           ],
@@ -1383,13 +1781,124 @@
               "course": "Web Programming I",
               "type": "sec",
               "professor": "Uma",
-              "hall": "A104",
+              "hall": "A115",
               "group": 1
             }
           ],
-          "7": [],
-          "8": [],
-          "9": [],
+          "7": [
+            {
+              "course": "Web Programming I",
+              "type": "sec",
+              "professor": "Uma",
+              "hall": "A115",
+              "group": 1
+            }
+          ],
+          "8": [
+            {
+              "course": "Web Programming I",
+              "type": "sec",
+              "professor": "Uma",
+              "hall": "A115",
+              "group": 1
+            }
+          ],
+          "9": [
+            {
+              "course": "Web Programming I",
+              "type": "sec",
+              "professor": "Uma",
+              "hall": "A115",
+              "group": 1
+            }
+          ],
+          "10": []
+        }
+      },
+      {
+        "day": 4,
+        "hours": {
+          "1": [
+            {
+              "course": "Linux Essentials",
+              "type": "sec",
+              "professor": "Charlie",
+              "hall": "A208",
+              "group": 2
+            }
+          ],
+          "2": [
+            {
+              "course": "Linux Essentials",
+              "type": "sec",
+              "professor": "Charlie",
+              "hall": "A208",
+              "group": 2
+            }
+          ],
+          "3": [
+            {
+              "course": "Linux Essentials",
+              "type": "sec",
+              "professor": "Charlie",
+              "hall": "A208",
+              "group": 2
+            }
+          ],
+          "4": [
+            {
+              "course": "Web Programming I",
+              "type": "sec",
+              "professor": "Uma",
+              "hall": "A106",
+              "group": 2
+            }
+          ],
+          "5": [
+            {
+              "course": "Web Programming I",
+              "type": "sec",
+              "professor": "Uma",
+              "hall": "A106",
+              "group": 2
+            }
+          ],
+          "6": [
+            {
+              "course": "Web Programming I",
+              "type": "sec",
+              "professor": "Uma",
+              "hall": "A106",
+              "group": 2
+            }
+          ],
+          "7": [
+            {
+              "course": "Web Programming I",
+              "type": "sec",
+              "professor": "Uma",
+              "hall": "A106",
+              "group": 2
+            }
+          ],
+          "8": [
+            {
+              "course": "Web Programming I",
+              "type": "sec",
+              "professor": "Uma",
+              "hall": "A106",
+              "group": 2
+            }
+          ],
+          "9": [
+            {
+              "course": "Web Programming I",
+              "type": "sec",
+              "professor": "Uma",
+              "hall": "A106",
+              "group": 2
+            }
+          ],
           "10": []
         }
       },
@@ -1398,23 +1907,14 @@
         "hours": {
           "1": [
             {
-              "course": "Operating System",
+              "course": "Linux Essentials",
               "type": "lec",
               "professor": "Dr. Thomas Wilson",
-              "hall": "A115",
+              "hall": "A209",
               "group": null
             }
           ],
           "2": [
-            {
-              "course": "Operating System",
-              "type": "lec",
-              "professor": "Dr. Thomas Wilson",
-              "hall": "A115",
-              "group": null
-            }
-          ],
-          "3": [
             {
               "course": "Linux Essentials",
               "type": "lec",
@@ -1423,9 +1923,18 @@
               "group": null
             }
           ],
+          "3": [
+            {
+              "course": "Operating System",
+              "type": "lec",
+              "professor": "Dr. Thomas Wilson",
+              "hall": "A209",
+              "group": null
+            }
+          ],
           "4": [
             {
-              "course": "Linux Essentials",
+              "course": "Operating System",
               "type": "lec",
               "professor": "Dr. Thomas Wilson",
               "hall": "A209",
@@ -1447,59 +1956,67 @@
         "hours": {
           "1": [
             {
-              "course": "Physics",
+              "course": "Mathematics 1",
               "type": "sec",
-              "professor": "Uma",
-              "hall": "A204",
+              "professor": "Mia",
+              "hall": "A106",
               "group": 1
             }
           ],
           "2": [
             {
-              "course": "Physics",
+              "course": "Mathematics 1",
               "type": "sec",
-              "professor": "Uma",
-              "hall": "A204",
+              "professor": "Mia",
+              "hall": "A106",
               "group": 1
             }
           ],
           "3": [
             {
-              "course": "Mathematics 1",
-              "type": "sec",
-              "professor": "Mia",
-              "hall": "A106",
-              "group": 1
+              "course": "Technical English 1",
+              "type": "lec",
+              "professor": "Dr. Emily Wong",
+              "hall": "A326",
+              "group": null
             }
           ],
           "4": [
             {
-              "course": "Mathematics 1",
-              "type": "sec",
-              "professor": "Mia",
-              "hall": "A106",
-              "group": 1
+              "course": "Technical English 1",
+              "type": "lec",
+              "professor": "Dr. Emily Wong",
+              "hall": "A326",
+              "group": null
             }
           ],
           "5": [
             {
               "course": "Programming Essentials in Python",
-              "type": "lec",
-              "professor": "Dr. David Lee",
+              "type": "sec",
+              "professor": "Yara",
               "hall": "A104",
-              "group": null
+              "group": 1
             }
           ],
           "6": [
             {
               "course": "Programming Essentials in Python",
-              "type": "lec",
-              "professor": "Dr. David Lee",
+              "type": "sec",
+              "professor": "Yara",
               "hall": "A104",
-              "group": null
+              "group": 1
             }
           ],
-          "7": [],
+          "7": [
+            {
+              "course": "Programming Essentials in Python",
+              "type": "sec",
+              "professor": "Yara",
+              "hall": "A104",
+              "group": 1
+            }
+          ],
           "8": [],
           "9": [],
           "10": []
@@ -1510,6 +2027,24 @@
         "hours": {
           "1": [
             {
+              "course": "Programming Essentials in Python",
+              "type": "lec",
+              "professor": "Dr. David Lee",
+              "hall": "A326",
+              "group": null
+            }
+          ],
+          "2": [
+            {
+              "course": "Programming Essentials in Python",
+              "type": "lec",
+              "professor": "Dr. David Lee",
+              "hall": "A326",
+              "group": null
+            }
+          ],
+          "3": [
+            {
               "course": "Intro. to Cyber Security",
               "type": "lec",
               "professor": "Dr. Alicia Chen",
@@ -1517,48 +2052,30 @@
               "group": null
             }
           ],
-          "2": [
-            {
-              "course": "Technical English 1",
-              "type": "sec",
-              "professor": "Kate",
-              "hall": "A104",
-              "group": 1
-            }
-          ],
-          "3": [
-            {
-              "course": "Technical English 1",
-              "type": "sec",
-              "professor": "Kate",
-              "hall": "A104",
-              "group": 1
-            }
-          ],
           "4": [
             {
-              "course": "Programming Essentials in Python",
+              "course": "IT Essentials",
               "type": "sec",
-              "professor": "Yara",
-              "hall": "A104",
+              "professor": "Quinn",
+              "hall": "A115",
               "group": 1
             }
           ],
           "5": [
             {
-              "course": "Programming Essentials in Python",
+              "course": "IT Essentials",
               "type": "sec",
-              "professor": "Yara",
-              "hall": "A104",
+              "professor": "Quinn",
+              "hall": "A115",
               "group": 1
             }
           ],
           "6": [
             {
-              "course": "Programming Essentials in Python",
+              "course": "IT Essentials",
               "type": "sec",
-              "professor": "Yara",
-              "hall": "A104",
+              "professor": "Quinn",
+              "hall": "A115",
               "group": 1
             }
           ],
@@ -1573,15 +2090,24 @@
         "hours": {
           "1": [
             {
-              "course": "Mathematics 1",
+              "course": "Physics",
               "type": "lec",
-              "professor": "Dr. Robert Taylor",
-              "hall": "A210",
+              "professor": "Dr. Sarah Martinez",
+              "hall": "A115",
               "group": null
             }
           ],
           "2": [
             {
+              "course": "Physics",
+              "type": "lec",
+              "professor": "Dr. Sarah Martinez",
+              "hall": "A115",
+              "group": null
+            }
+          ],
+          "3": [
+            {
               "course": "Mathematics 1",
               "type": "lec",
               "professor": "Dr. Robert Taylor",
@@ -1589,21 +2115,12 @@
               "group": null
             }
           ],
-          "3": [
-            {
-              "course": "Physics",
-              "type": "lec",
-              "professor": "Dr. Sarah Martinez",
-              "hall": "A115",
-              "group": null
-            }
-          ],
           "4": [
             {
-              "course": "Physics",
+              "course": "Mathematics 1",
               "type": "lec",
-              "professor": "Dr. Sarah Martinez",
-              "hall": "A115",
+              "professor": "Dr. Robert Taylor",
+              "hall": "A210",
               "group": null
             }
           ],
@@ -1620,20 +2137,20 @@
         "hours": {
           "1": [
             {
-              "course": "Technical English 1",
-              "type": "lec",
-              "professor": "Dr. Emily Wong",
-              "hall": "A326",
-              "group": null
+              "course": "Physics",
+              "type": "sec",
+              "professor": "Uma",
+              "hall": "A204",
+              "group": 1
             }
           ],
           "2": [
             {
-              "course": "Technical English 1",
-              "type": "lec",
-              "professor": "Dr. Emily Wong",
-              "hall": "A326",
-              "group": null
+              "course": "Physics",
+              "type": "sec",
+              "professor": "Uma",
+              "hall": "A204",
+              "group": 1
             }
           ],
           "3": [
@@ -1641,7 +2158,7 @@
               "course": "IT Essentials",
               "type": "lec",
               "professor": "Dr. Marcus Johnson",
-              "hall": "A326",
+              "hall": "A115",
               "group": null
             }
           ],
@@ -1650,7 +2167,7 @@
               "course": "IT Essentials",
               "type": "lec",
               "professor": "Dr. Marcus Johnson",
-              "hall": "A326",
+              "hall": "A115",
               "group": null
             }
           ],
@@ -1667,31 +2184,23 @@
         "hours": {
           "1": [
             {
-              "course": "IT Essentials",
+              "course": "Technical English 1",
               "type": "sec",
-              "professor": "Quinn",
-              "hall": "A105",
+              "professor": "Kate",
+              "hall": "A104",
               "group": 1
             }
           ],
           "2": [
             {
-              "course": "IT Essentials",
+              "course": "Technical English 1",
               "type": "sec",
-              "professor": "Quinn",
-              "hall": "A105",
+              "professor": "Kate",
+              "hall": "A104",
               "group": 1
             }
           ],
-          "3": [
-            {
-              "course": "IT Essentials",
-              "type": "sec",
-              "professor": "Quinn",
-              "hall": "A105",
-              "group": 1
-            }
-          ],
+          "3": [],
           "4": [],
           "5": [],
           "6": [],
