@@ -48,7 +48,7 @@ class schedule:
         # First pass: Collect all rooms and course room info
         all_rooms = set()
         course_room_info = {}
-        grouped = self.df_courses.groupby('course')
+        grouped = self.df_courses.groupby('course_name')
         for course_name, group in grouped:
             first_row = group.iloc[0]
             lec_rooms = self.parse_rooms(first_row['lecs rooms'])
@@ -62,7 +62,6 @@ class schedule:
         
         # Second pass: Process courses and assign allowed rooms
         self.allowed_rooms = {}
-        grouped = self.df_courses.groupby('course')
         for course_name, group in grouped:
             first_row = group.iloc[0]
             lecture = first_row['lecture']
