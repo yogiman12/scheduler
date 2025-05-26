@@ -6,3 +6,4 @@ schedules/
 upload data.ipynb
 /.vscode/
 /.idea/
+*.pyc
