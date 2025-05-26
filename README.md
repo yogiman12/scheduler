@@ -39,7 +39,7 @@ Defines the list of all courses to be scheduled.
 
 ```json
 "courses_data": {
-  "columns": ["course", "lecture", "department_n_year", "professor", "assistant", "lecs rooms", "labs rooms", "section"],
+  "columns": ["course_name", "lecture_length", "department_n_year", "teacher_name", "assistant_name", "lecs rooms", "labs rooms", "section_length"],
   "data": [
     ["Programming Essentials in Python", 2, "1", "Dr. David Lee", "Yara", "all", ["A104", "A105"], 3]
   ]
@@ -48,12 +48,12 @@ Defines the list of all courses to be scheduled.
 
 **Fields Explained:**
 
-- `course`: Name of the course
-- `lecture`: Number of lecture hours
-- `section`: Number of section/lab hours
-- `professor`: Professor’s full name
-- `assistant`: Assistant’s name
-- `lecs rooms`: List of lecture rooms (can be `"all"`, a single string like `"A101"`, or a list like `["A101", "A102"]`)
+- `course_name`: Name of the course
+- `lecture_length`: Number of lecture hours
+- `section_length`: Number of section/lab hours
+- `teacher_name`: Professor’s full name
+- `assistant_name`: Assistant’s name
+- `lecs rooms`: List of lecture rooms (can be `[]` for all or a list like `["A101", "A102"]`)
 - `labs rooms`: Same format as `lecs rooms`, but for lab/section rooms
 - `department_n_year`: The department and year for this course, e.g., `"3s"` or `"1"`
 
