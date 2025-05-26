@@ -4,9 +4,10 @@ from IPython.display import display, HTML
 from collections import defaultdict
 
 
-
 class schedule:
     def __init__(self):
+        self.df_groups = None
+        self.df_courses = None
         self.problem = LpProblem("Schedule_Table", LpMinimize)
         self.days = list(range(1, 6))  # Days 1-5
         self.hours = list(range(1, 11))  # Hours 1-10
