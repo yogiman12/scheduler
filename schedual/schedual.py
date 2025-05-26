@@ -28,10 +28,8 @@ class schedule:
             return list(set(room_data)) if room_data else 'all'
         return 'all'
 
-            # Handle cases where the string is a list representation
-            cleaned_str = room_str.strip("[]' ")
-    def load_data(self ,json_file_path : str ="data.json" ) -> None:
-        with open('data.json', 'r') as f:
+    def load_data(self, json_file_path: str = "data.json") -> None:
+        with open(json_file_path, 'r') as f:
             data = json.load(f)
             
         self.df_courses = pd.DataFrame(data=data['courses_data']['data'],columns=data['courses_data']['columns'])
