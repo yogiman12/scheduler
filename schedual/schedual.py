@@ -168,21 +168,13 @@ class schedule:
                 else:
                     # Handle case where original section has no assigned professor (unlikely if data is correct)
                     pass
-                
+
                 # Add the new course to the department's set of courses
                 if department in self.departments:
                     self.departments[department].add(new_course)
                 else:
                     # If the department doesn't exist, create a new entry (though this shouldn't happen if called correctly)
                     self.departments[department] = {new_course}
-
-
-    def create_variables(self):
-        self.choices = LpVariable.dicts(
-            "slot",
-            (self.days, self.hours, self.halls, self.courses),
-            cat="Binary"
-        )
 
     def constrain_rooms(self):
         for course in self.courses:
