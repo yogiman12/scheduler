@@ -38,8 +38,8 @@ class schedule:
         df_days =pd.DataFrame(data=data['work_days']['data'],columns=data['work_days']['columns'])
         place = data['study_places']
         self.halls = [*place['halls'],*place['labs']] # change it  in indeviuual vars
-        f.close()
-        self.Professor_days = {item['name']: list(map(int, item['days'][1:-1].split(', '))) for _, item in df_days.iterrows()}
+        self.Professor_days = df_days.set_index('name')['days'].to_dict()
+
 
     def handle_data(self) -> dict:
         # self.df_courses = pd.read_csv(csv_filepath)  # replace it with json 
