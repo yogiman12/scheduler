@@ -1,7 +1,8 @@
-from pulp import *
 import pandas as pd
 from IPython.display import display, HTML
 from collections import defaultdict
+import json
+from pulp import LpProblem, LpVariable, LpMinimize, lpSum, LpStatusOptimal
 
 
 class schedule:
