@@ -23,19 +23,13 @@ class schedule:
         self.allowed_rooms = {}  # Maps course to list of allowed halls
 
     @staticmethod
-    def parse_rooms(room_str):
-        if isinstance(room_str, str) and room_str.lower() == 'all':
-            return 'all'
-        rooms = []
-        try:
+    def parse_rooms(room_data):
+        if isinstance(room_data, list):
+            return list(set(room_data)) if room_data else 'all'
+        return 'all'
+
             # Handle cases where the string is a list representation
             cleaned_str = room_str.strip("[]' ")
-            rooms = [r.strip("' ") for r in cleaned_str.split(',')]
-            rooms = list(set(rooms))  # Remove duplicates
-        except:
-            pass
-        return rooms if len(rooms) > 0 else 'all'
-    
     def load_data(self ,json_file_path : str ="data.json" ) -> None:
         with open('data.json', 'r') as f:
             data = json.load(f)
