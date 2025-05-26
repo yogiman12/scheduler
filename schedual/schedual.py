@@ -64,10 +64,10 @@ class schedule:
         self.allowed_rooms = {}
         for course_name, group in grouped:
             first_row = group.iloc[0]
-            lecture = first_row['lecture']
-            professor = first_row['professor']
-            assistant = first_row['assistant']
-            section = first_row['section']
+            lecture = first_row['lecture_length']
+            professor = first_row['teacher_name']
+            assistant = first_row['assistant_name']
+            section = first_row['section_length']
             years = group['department_n_year'].unique()
             
             # Process lecture
